@@ -9,11 +9,6 @@ import android.content.Context;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Author: alex askerov
- * Date: 9/7/13
- * Time: 10:49 PM
- */
 public abstract class BaseDynamicGridAdapter extends AbstractDynamicGridAdapter {
     private Context mContext;
 

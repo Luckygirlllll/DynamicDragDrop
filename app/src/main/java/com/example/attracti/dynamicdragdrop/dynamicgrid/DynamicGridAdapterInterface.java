@@ -4,11 +4,6 @@ package com.example.attracti.dynamicdragdrop.dynamicgrid;
  * Created by Iryna on 7/4/16.
  */
 
-/**
- * Author: alex askerov
- * Date: 18/07/14
- * Time: 23:44
- */
 
 /**
  * Any adapter used with DynamicGridView must implement DynamicGridAdapterInterface.
